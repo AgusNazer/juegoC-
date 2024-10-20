@@ -1,8 +1,7 @@
 #include <iostream>
+#include "functions.h"
 
-using namespace std;
-
-int main(){
-
+int main() {
+    mostrarMenu();  // Llamada al menú principal
     return 0;
 }
